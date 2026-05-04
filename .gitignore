@@ -3,3 +3,7 @@ node_modules
 .API_DOCUMENTATION.md 
 d:\Hr_SAAS\Backend\Server\ echo  IMPLEMENTATION_SUMMARY.md 
 d:\Hr_SAAS\Backend\Server\ echo QUICK_START.md 
+.env.example 
+API_DOCUMENTATION.MD 
+IMPLEMENTATION_SUMMARY.MD 
+QUICK_START.MD 
